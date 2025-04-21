@@ -1,0 +1,14 @@
+{
+  "name": "mern4-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start":"node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

@@ -1,0 +1,13 @@
+1.node js is a single thread  
+2.libuv package is used in node js in which event loop helps to manage small work while 
+thread pull is used to handle hard task which make node js faster this package help to give small 
+handling to event loop in which task is distributed
+3.-y is also known as flag as well as hypen
+4.java script was made in 10 days by brandon eich.
+5.ryan dahl le chai js lai server side ma pani lyaune bhanerw node.js bhaanerw banayo 
+6.it was developed in 2009
+7.yo chai jadu ko bhada jasbata extra power aauxa it is scripting as well as programming language
+8. node modules=>contains the description of the package which is used to make main package and also 
+contain the installed package 
+9.package.json=>contains main detail of our project 
+10.package-lock.json=>this contains raw packages which is used to make main package
